@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors: 
+- family-names: "Larson"
+  given-names: "Chris"
+- family-names: "Ferguson"
+  given-names: "Jake"
+  - family-names: "Drocourt"
+  given-names: "Yoann"
+  - family-names: "Youssef"
+  given-names: "Amina"
+  - family-names: "Jenson"
+  given-names: "Amy"
+title: "group-two"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-05-24
+url: "https://github.com/qgreenland-workshop-2023-researcher/group-two"
